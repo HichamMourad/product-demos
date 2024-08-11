@@ -12,3 +12,4 @@ choose_demo_example_aws.yml
 .deployment_id
 settings.json
 .vscode
+.vscode/settings.json

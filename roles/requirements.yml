@@ -40,7 +40,7 @@ roles:
   - name: redhatofficial.rhel9_ospp
     version: 0.1.68
   - name: redhatofficial.rhel9_pci_dss
-    version: 0.1.68
+    version: 0.1.72
   - name: redhatofficial.rhel9_stig
     version: 0.1.64
 ...
